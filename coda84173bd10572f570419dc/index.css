@@ -1,15 +1,15 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("images/table.png");
+    background-image: url("https://extrabetamerica.imgix.net/shutterstock_1858574848_f0fa29fe5c.jpg?fit=crop&ar=16:9");
     background-size: cover;
     font-weight: bold;
-    color: white;
+    color: red;
     text-align: center;
     
 }
 
 h1 {
-    color: goldenrod;
+    color:goldenrod;
 }
 
 #message-el {
@@ -17,9 +17,9 @@ h1 {
 }
 
 button {
-    color: #016f32;
+    color: white;
     width: 150px;
-    background: goldenrod;
+    background: black;
     padding-top: 5px;
     padding-bottom: 5px;
     font-weight: bold;
